@@ -1,2 +1,2 @@
-shell scripting
-devops
+ls -l
+pwd
